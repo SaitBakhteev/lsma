@@ -6,3 +6,12 @@
 .blueButton:hover {
     background-color: aquamarine;
 }
+
+.greenBt {
+    background-color: green;
+    color: azure;
+}
+
+.greenBt:hover {
+    background-color: ActiveCaption;
+}
